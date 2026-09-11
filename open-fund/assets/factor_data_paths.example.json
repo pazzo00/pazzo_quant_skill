@@ -1,0 +1,12 @@
+{
+  "stock_bar": "data/stock/stock_bar_1day.parquet",
+  "capital": "data/stock/capital.parquet",
+  "market_bar": "data/index/index_bar_1day.parquet",
+  "fund_bar": "data/index/index_bar_1day.parquet",
+  "report_balance": "data/stock/report_balance.parquet",
+  "report_income": "data/stock/report_income.parquet",
+  "report_cashflow": "data/stock/report_cashflow.parquet",
+  "bab_factor": "outputs/bab.parquet",
+  "qmj_factor": "outputs/qmj.parquet",
+  "premium": "outputs/premium.parquet"
+}
